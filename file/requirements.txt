@@ -1,0 +1,29 @@
+# Data handling
+pandas
+numpy
+openpyxl
+
+# Web scraping
+requests
+beautifulsoup4
+
+# Modeling
+scikit-learn
+xgboost
+lightgbm
+category_encoders
+
+# Model interpretation
+shap
+statsmodels
+
+# Persistence
+joblib
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Deployment demo
+streamlit

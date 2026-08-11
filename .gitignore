@@ -1,0 +1,32 @@
+# Datasets
+*.csv
+*.xls
+*.xlsx
+*.json
+!reference_categories.json
+
+# Trained model artifacts / encoders
+*.joblib
+*.pkl
+modele_*.json
+quantile_*.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environment
+.env
